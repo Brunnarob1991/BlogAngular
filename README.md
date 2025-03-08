@@ -1,5 +1,6 @@
-# AngularBlog
+# Projeto Blog usando Angular
 
+Decola Tech 2025.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
